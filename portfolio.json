@@ -1,0 +1,7 @@
+{
+  "title": "Snakes & Ladders",
+  "description": "The classic race to square 100: climb the ladders, dodge the snakes. Play against bots, pass-and-play, or online with friends.",
+  "tags": ["React", "useReducer", "SVG", "Online rooms"],
+  "port": 5177,
+  "order": 4
+}
